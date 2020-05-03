@@ -1,4 +1,4 @@
-# move-proxy
+# move proxy
 Gob Based Proxy Cli to rewrite requests.  Useful for Integration testing.
 
 ## Installation
